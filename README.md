@@ -49,3 +49,4 @@ User, который был удален, видит сообщение "Это�
     <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_5.png" width="600">
 </a>
 
+Благодарю Ирину! ))) 
