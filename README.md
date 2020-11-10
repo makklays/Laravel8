@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Про Test-овое задание 
+## TЗ - Про Test-овое задание 
 
 1. Установить Laravel 8
 2. Настроить login/register (composer require laravel/ui & php artisan ui bootstrap --auth) (Поля при регистрации - name, login, phone, email, date_of_birth, about)
