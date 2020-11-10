@@ -32,6 +32,7 @@ User, который был удален, видит сообщение "Это�
 Вход на странице Login переделан на поля Login и Password (ранее были поля Email и Password). Дизайн прост и не замысловат.
 
 Скрины выполненного тестового задания:
+
 <a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" target="_blank">
     <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" width="400">
 </a>
