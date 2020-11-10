@@ -30,3 +30,21 @@ User, который был удален, видит сообщение "Это�
 3. Запустить команду <i>php artisan db:seed</i>
 
 Вход на странице Login переделан на поля Login и Password (ранее были поля Email и Password). Дизайн прост и не замысловат.
+
+Скрины выполненного тестового задания:
+<a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" target="_blank">
+    <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" width="400">
+</a>
+<a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_2.png" target="_blank">
+    <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_2.png" width="400">
+</a>
+<a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_3.png" target="_blank">
+    <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_3.png" width="400">
+</a>
+<a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_4.png" target="_blank">
+    <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_4.png" width="400">
+</a>
+<a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_5.png" target="_blank">
+    <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_5.png" width="400">
+</a>
+
