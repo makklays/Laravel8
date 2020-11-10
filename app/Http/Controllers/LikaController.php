@@ -9,7 +9,9 @@ use Illuminate\Support\Facades\Auth;
 
 class LikaController extends Controller
 {
-    //
+    /**
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View|\Illuminate\Http\RedirectResponse
+     */
     public function profile()
     {
         $user = DB::table('users')
@@ -24,6 +26,9 @@ class LikaController extends Controller
         ]);
     }
 
+    /**
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
+     */
     public function users()
     {
         $users = DB::table('users')
@@ -36,6 +41,10 @@ class LikaController extends Controller
         ]);
     }
 
+    /**
+     * @param Request $request
+     * @return \Illuminate\Http\RedirectResponse
+     */
     public function delete(Request $request)
     {
         if (Auth::user()->isAdmin()) {
@@ -54,6 +63,9 @@ class LikaController extends Controller
         }
     }
 
+    /**
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
+     */
     public function blocked()
     {
         return view('blocked');
