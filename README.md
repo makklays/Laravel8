@@ -10,7 +10,7 @@
 ## Про Test-овое задание 
 
 1. Установить Laravel 8
-2. Настроить login/register (composer require laravel/ui^2.4 & php artisan ui bootstrap --auth) (Поля при регистрации - name, login, phone, email, date_of_birth, about)
+2. Настроить login/register (composer require laravel/ui & php artisan ui bootstrap --auth) (Поля при регистрации - name, login, phone, email, date_of_birth, about)
 3. Сделать 2 типа пользователей "Admin" & "User"
 4. Регистрация по умолчанию тип "User"
 5. Сделать личный кабинет (LiKa) для пользователей (Bootstrap 3)
