@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" target="_blank"><img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" width="600"></a></p>
+<p align="center"><a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" target="_blank"><img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" width="600"> </a> </p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
