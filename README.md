@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" target="_blank"><img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" width="600"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Про Test-овое задание 
+## TЗ - Про Test-овое задание 
 
 1. Установить Laravel 8
 2. Настроить login/register (composer require laravel/ui & php artisan ui bootstrap --auth) (Поля при регистрации - name, login, phone, email, date_of_birth, about)
@@ -30,3 +30,23 @@ User, который был удален, видит сообщение "Это�
 3. Запустить команду <i>php artisan db:seed</i>
 
 Вход на странице Login переделан на поля Login и Password (ранее были поля Email и Password). Дизайн прост и не замысловат.
+
+Скрины выполненного тестового задания:
+
+<a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" target="_blank">
+    <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_1.png" width="600">
+</a>
+<a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_2.png" target="_blank">
+    <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_2.png" width="600">
+</a>
+<a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_3.png" target="_blank">
+    <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_3.png" width="600">
+</a>
+<a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_4.png" target="_blank">
+    <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_4.png" width="600">
+</a>
+<a href="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_5.png" target="_blank">
+    <img src="https://github.com/makklays/Laravel8/blob/main/public/img/Screenshot_5.png" width="600">
+</a>
+
+Благодарю Ирину! ))) 
